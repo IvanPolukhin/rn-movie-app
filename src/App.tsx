@@ -7,7 +7,7 @@
 
 import { JSX } from 'react';
 import { StyleSheet, View } from 'react-native';
-import Navigation from './src/features/Navigation';
+import Navigation from './features/Navigation';
 
 function App(): JSX.Element {
   return (
